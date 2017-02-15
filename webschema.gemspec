@@ -1,4 +1,4 @@
-require './lib/webschema/version'
+require './lib/web_schema/version'
 
 Gem::Specification.new do |gemspec|
   gemspec.name = 'webschema'
